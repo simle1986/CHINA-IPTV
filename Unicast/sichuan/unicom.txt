@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1,http://sc.rrs.169ol.com/:80PLTV/88888888/224/3221227479/index.m3u8
+CCTV1,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8
 CCTV2,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227477/index.m3u8
 CCTV3,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
 CCTV4,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227373/index.m3u8
